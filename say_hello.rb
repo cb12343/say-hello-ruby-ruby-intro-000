@@ -4,4 +4,4 @@ def say_hello(name)
 
 
 end
-puts "Kent Beck"
+say_hello("Kent Beck")
