@@ -12,5 +12,5 @@ name = "Kent Beck"
     expect($stdout).to receive(:puts).with("Hello Ruby Programmer!")
     say_hello()
   end
-puts say_hello("Kent Beck")
+
 end
